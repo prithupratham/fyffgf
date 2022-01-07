@@ -1,0 +1,28 @@
+.header{
+    font-size: 20px;    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+    
+    .button2{
+    float: right;
+    }
+    
+    .button_1{
+    font-size: 20px;   
+    font-family: monospace;
+    }
+    
+    .footer{
+        font-size: 20px;
+        text-align: center;
+        box-shadow: 10px 10px 10px goldenrod;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        background-color: seagreen;
+    }
+    
+    canvas{
+        box-shadow: 10px 10px 10px red;
+    
+    } 
